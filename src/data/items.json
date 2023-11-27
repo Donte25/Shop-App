@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Play Station 5",
+      "price": 499.99,
+      "imgUrl": "/imgs/ps5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Xbox Series X",
+      "price": 499.99,
+      "imgUrl": "/imgs/seriesX.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Steam Deck",
+      "price": 599.99,
+      "imgUrl": "/imgs/steamdeck.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nintendo Switch",
+      "price": 399.99,
+      "imgUrl": "/imgs/Switch.jpg"
+    }
+  ]
